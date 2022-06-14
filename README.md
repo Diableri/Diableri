@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Deyvison Souza Oliveira
+- 👀 I’m interested in Python, C# and PHP
+- 🌱 I’m currently learning WEB development based on HTML, CSS and Javascript, recently I finineshed the Discover path at https://www.rocketseat.com.br/
+- 💞️ recently I finineshed the Discover path at https://www.rocketseat.com.br/
+- 📫 How to reach me, linkedin: https://www.linkedin.com/in/deyvison-oliveira-da-silva-161454198/
+-                     email: deyvison.rjos@gmail.com 
+-                     phone: +5521975991078
