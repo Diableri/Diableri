@@ -23,6 +23,6 @@
        	<a href="https://www.facebook.com/deyvison.oliveiradasilva" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   	    <a href="https://www.instagram.com/deyvison.rjos/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
         <a href="https://www.linkedin.com/in/deyvison-souza-oliveira-161454198/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-          <img align="right" height="150" src="https://c.tenor.com/NswQZiSTct0AAAAC/howdy-salute.gif">
+          
           
   </div>
